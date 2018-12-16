@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.js linguist-language=Spring
+*.css linguist-language=Spring
+*.html linguist-language=Spring
